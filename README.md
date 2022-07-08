@@ -11,5 +11,5 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 ![June Precipiation Summary](June.png) ![December Precipitation Summary](December.png)
 
 ## Summary:
-W.avy  wanted us to use the data to analyze the weather in Hawaii and decide if seasonality is a factor in order to open the shop. We can see that the temperature is not a factor in this case. i would suggest to run 2 other queries that can show the precipitation during both months, rain would affect the activity in the shop, so it would be ideal to find out how much much there is during tose two months.
+W.avy  wanted us to use the data to analyze the weather in Hawaii and decide if seasonality is a factor in order to open the shop. We can see that the temperature is not a factor in this case. i would suggest to run 2 other queries that can show the precipitation during both months, rain would affect the activity in the shop, so it would be ideal to find out how much rain there is during those two months.
 
